@@ -14,15 +14,15 @@ Make sure you have the following prerequisites installed on your system:
 Follow these steps to set up the project:
 1. Clone the repository: 
     ```
-    - git clone https://github.com/K-Honsu/yetti-assessment.git
+    git clone https://github.com/K-Honsu/yetti-assessment.git
     ```
 2. Navigate to the Project Directory
     ```
-    - cd yetti-assessment/
+    cd yetti-assessment/
     ```
 3. Create a virtual environment (optional but recommended):
     ```
-    - python3 -m venv venv
+    python3 -m venv venv
     ```
 4. Activate the virtual environment
     ```
