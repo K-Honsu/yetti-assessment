@@ -38,6 +38,10 @@ Follow these steps to set up the project:
     ```
     pip install -r requirements.txt
     ```
+6. Inlcude secret key
+    ```
+        create a .env file with key SECRET_KEY and value of anything. As shown in .env.example
+    ```
 6. Apply migrations to set up the database:
     ```
     python manage.py makemigrations
