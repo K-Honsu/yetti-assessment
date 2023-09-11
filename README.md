@@ -81,3 +81,6 @@ http://127.0.0.1:8000/users/logout/  : to logout a new user
 ```
 pytest
 ```
+
+## Error Handling
+- Errors such as short password, incorrect password and non-existing users are automatically implemented.
