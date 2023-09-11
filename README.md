@@ -63,14 +63,18 @@ Quit the server with CONTROL-C.
 ```
 http://127.0.0.1:8000/auth/users/ : to create a new user
 ```
+<img src="./images/Screenshot 2023-09-11 at 6.44.09 PM.png" alt="register a user" width="700px" height="500px">
 - To login a new user, in your web browser, head over to:
 ```
 http://127.0.0.1:8000/users/login/  : to login a new user
 ```
+<img src="./images//login.png" alt="login in a user" width="700px" height="500px">
 - To logout a new user, in your web browser, head over to:
 ```
 http://127.0.0.1:8000/users/logout/  : to logout a new user
 ```
+<img src="./images/logout.png" alt="logout a user" width="700px" height="500px">
+
 
 ## Testing 
 - To test the following endpoints, in yout terminal, run the following command
